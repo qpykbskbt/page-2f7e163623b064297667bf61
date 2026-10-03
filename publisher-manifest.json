@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "f2e18d4eca0e387d9f7249b5",
+  "owner": "qpykbskbt",
+  "repo": "page-2f7e163623b064297667bf61",
+  "title": "FireUnicorn",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2f7e163623b064297667bf61",
+      "a": "FireUnicorn",
+      "b": "",
+      "entity": "FireUnicorn",
+      "brand": "FireUnicorn",
+      "separator": "",
+      "path": "index.html",
+      "hash": "e45d353b9cdee0a9fb979e91009cb1a7361ffcb7f03da195231b7fe4ef53004e",
+      "content": {
+        "keyword1": "FireUnicorn",
+        "keyword2": "",
+        "primary_entity": "FireUnicorn",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "FireUnicorn提供稳定机场订阅与VPN梯子服务，覆盖网络加速、流媒体解锁与多端客户端下载，本页为官网配置说明与套餐介绍。",
+          "AI_DESCRIPTION": "FireUnicorn提供稳定机场订阅与VPN梯子服务，覆盖网络加速、流媒体解锁与多端客户端下载，本页为官网配置说明与套餐介绍。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:#F6F3EC;color:#1C2B1C;font-size:16px;line-height:1.7}a{color:#1B5E20;text-decoration:underline}header,main,footer{width:100%;max-width:760px;margin:0 auto;padding:16px}header{padding-top:20px;padding-bottom:8px}nav{display:flex;flex-wrap:wrap;gap:10px 14px;margin:12px 0 8px;font-size:14px}nav a{color:#0D3B12;text-decoration:none;border-bottom:1px solid #2E7D32}h1{font-size:1.85rem;line-height:1.3;color:#0D3B12;margin:12px 0 16px}h2{font-size:1.35rem;color:#1B5E20;margin:28px 0 12px;padding-bottom:6px;border-bottom:2px solid #2E7D32}h3{font-size:1.08rem;color:#0D3B12;margin:16px 0 8px}p,li{color:#1C2B1C}ul,ol{padding-left:1.2em;margin:8px 0 16px}.lead{font-size:1.05rem}.card{background:#FFFEF9;border:1px solid #C5D5C5;border-radius:10px;padding:14px 16px;margin:12px 0}.card.featured{border:2px solid #1B5E20;background:#EAF3EA}.price{font-size:1.2rem;font-weight:700;color:#1B5E20}.muted{color:#3D4F3D;font-size:0.95rem}.steps{counter-reset:step;list-style:none;padding:0;margin:0}.steps li{position:relative;background:#FFFEF9;border:1px solid #C5D5C5;border-radius:10px;padding:14px 14px 14px 58px;margin:12px 0}.steps li:before{counter-increment:step;content:counter(step);position:absolute;left:14px;top:14px;width:32px;height:32px;border-radius:50%;background:#1B5E20;color:#F6F3EC;font-weight:700;text-align:center;line-height:32px}.scene{background:#EAF3EA;border-radius:10px;padding:12px 14px;margin:10px 0}details{background:#FFFEF9;border:1px solid #C5D5C5;border-radius:8px;padding:10px 12px;margin:10px 0}summary{font-weight:700;color:#0D3B12;cursor:pointer}details p{margin:8px 0 0}.links a,.map a{display:inline-block;margin:4px 10px 4px 0}.adbox{border:1px dashed #2E7D32;background:#EAF3EA;padding:12px;border-radius:8px;margin:16px 0}footer{font-size:14px;color:#3D4F3D;padding-bottom:32px}</style><header><p class=\"muted\">FireUnicorn 官方网站</p><nav><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#steps\">配置流程</a><a href=\"#plans\">套餐订阅</a><a href=\"#guide\">操作说明</a><a href=\"#faq\">常见问题</a><a href=\"#map\">网站地图</a><a href=\"#links\">友情链接</a></nav></header><main><h1>FireUnicorn 官方网站</h1><section id=\"intro\"><h2>品牌简介</h2><p class=\"lead\">FireUnicorn 是面向个人与团队的机场订阅与 VPN 加速服务，提供稳定梯子网络加速、多端客户端下载以及清晰的官网配置路径。我们把订阅导入、节点选择和日常连接写成可执行步骤，让首次使用也能独立完成。</p><p>服务定位于跨境访问、流媒体观看、远程协作和游戏加速。线路包含常规节点与 IPLC 专线优化，旗舰与团队套餐强调原生流媒体解锁和更高并发设备数。本页为 FireUnicorn 官网说明页，集中介绍套餐、配置流程与客户端下载方式，不依赖额外插件即可阅读。</p><p>官方身份以本站信息与订阅后台为准。获取订阅后，请仅在自有设备导入客户端，避免分享链接。如需核对版本，请回到本页锚点或官网入口，不要从不明来源安装加速器。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"scene\"><h3>远程办公与资料查阅</h3><p>跨国会议、云盘同步和文档协作时，FireUnicorn VPN 可降低链路抖动。建议办公场景优先选择延迟更稳的专线节点，并限制同时在线设备，避免带宽被占用。</p></div><div class=\"scene\"><h3>流媒体与内容解锁</h3><p>基础版覆盖常见影音需求，旗舰版强调全节点原生流媒体解锁。观看前先切换对应地区节点，再刷新应用，可减少地区校验失败。</p></div><div class=\"scene\"><h3>游戏与实时对战</h3><p>旗舰版含 IPLC 专线游戏加速优化，适合对延迟敏感的对局。请关闭占用带宽的下载任务，游戏与浏览器分设备使用效果更稳。</p></div><div class=\"scene\"><h3>出行与多设备切换</h3><p>差旅中可在手机与笔记本间切换同一订阅。团队版支持更多终端，适合小组共用配额但仍建议按人分配设备名，便于排查。</p></div></section><section id=\"steps\"><h2>配置流程</h2><p>FireUnicorn 强调纵向配置流程：先确定套餐与流量，再拿到订阅，最后在客户端导入并选择节点。按下列步骤操作即可完成官网到加速器的闭环。</p><ol class=\"steps\"><li><h3>确认需求并选择套餐</h3><p>对照设备数量、月流量和是否需要 IPLC 或原生流媒体。个人日常浏览可选基础版；影音与游戏选旗舰版；多成员共用选团队版。</p></li><li><h3>完成订购并进入订阅后台</h3><p>下单后在官网账户查看订阅状态。年付方案按页面标价结算。保留订单号，便于后续工单核对。</p></li><li><h3>复制机场订阅链接</h3><p>在后台生成通用订阅地址。请整段复制，不要截断参数。该链接用于客户端一键导入，相当于 FireUnicorn 机场的配置入口。</p></li><li><h3>下载对应平台客户端</h3><p>根据系统选择 Windows、macOS、Android、iOS 或常见开源核心客户端。仅通过官网指引获取安装包，安装后先不要连接，进入导入步骤。</p></li><li><h3>导入订阅并测试节点</h3><p>客户端内选择“从 URL 导入”，粘贴订阅并更新节点列表。先测延迟，再连接；失败时更换协议或节点，而不是重复安装。</p></li><li><h3>按场景固定规则</h3><p>办公可设置分流，仅代理跨境域名；流媒体走指定地区节点；游戏锁定低延迟线路。完成一次保存后，日常只需开关连接。</p></li></ol></section><section id=\"plans\"><h2>套餐与机场订阅</h2><p>以下为 FireUnicorn 当前固定方案，价格与权益以本页为准。流量为每月极速配额，周期结束按套餐重置。年付为对应月价的年度结算说明。</p><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></section><section id=\"guide\"><h2>客户端下载与操作说明</h2><p>FireUnicorn 官网下载入口按系统分类。安装完成后统一使用机场订阅链接，无需为每个节点手工填写服务器。下列说明覆盖常见加速器用法。</p><h3>Windows / macOS</h3><p>下载桌面客户端后允许系统代理权限，选择订阅导入。系统代理模式适合浏览器；TUN 或增强模式适合整机加速。游戏请优先增强模式并指定网卡。</p><h3>Android / iOS</h3><p>移动端导入后建议开启分应用代理，仅对需要加速的 App 生效，节省流量。iOS 需在系统 VPN 配置中允许配置描述文件。切换节点后如应用仍走旧线路，请强制结束应用再开。</p><h3>日常操作要点</h3><ul><li>更新订阅：客户端内手动更新，确保节点列表与官网后台一致。</li><li>选择节点：名称含 IPLC 或对应地区的节点用于游戏与流媒体；普通节点用于网页。</li><li>流量观察：接近套餐上限时减少大文件下载，避免高峰被限速。</li><li>故障排查：先更换节点与协议，再检查系统时间、本地防火墙和重复代理。</li></ul><p>官方下载与版本说明请使用页面导航返回顶部入口。本页不托管安装包文件，避免镜像被篡改。若提示证书或签名异常，停止安装并回到 FireUnicorn 官网核对。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>FireUnicorn 是机场还是 VPN？如何理解官网服务？</summary><p>FireUnicorn 同时提供机场订阅与 VPN 加速器用法：后台给出订阅链接，客户端负责连接节点完成梯子网络加速。官网本页负责说明套餐、配置流程和下载路径，不改变订阅本身的工作方式。</p></details><details><summary>如何完成客户端下载并导入订阅？</summary><p>先在账户中复制订阅 URL，再按系统下载对应客户端。打开软件后选择从链接导入，更新节点，测试延迟后连接。不要把订阅发给他人，也不要从第三方网盘获取所谓破解加速器。</p></details><details><summary>三个套餐该怎么选？流量不够怎么办？</summary><p>单人轻度使用选基础版；需要原生流媒体、游戏专线和优先工单选旗舰版；多人共用或需要定制路由选团队版。流量按月重置，不足时应升级套餐或控制大流量应用，而不是频繁更换账号。</p></details><details><summary>支持哪些设备同时在线？超出会怎样？</summary><p>基础版 3 台、旗舰版 5 台、团队版 20 台。超出限制时新设备可能无法认证或挤占旧会话。建议在客户端为设备命名，闲置终端主动断开。</p></details><details><summary>流媒体打不开或显示地区错误怎么处理？</summary><p>确认当前套餐是否包含对应解锁能力，切换到该地区原生节点，清空应用缓存后重试。浏览器插件与系统代理叠加时容易暴露真实地址，请只保留一套代理。</p></details><details><summary>连接失败或速度慢时，官方建议的检查顺序是什么？</summary><p>依次检查：订阅是否过期、本地时间是否准确、是否有多个 VPN 同时开启、节点是否维护。然后更换协议或线路。旗舰用户可通过优先工单提交日志，团队用户可联系客户经理协助路由调整。</p></details></section><section id=\"map\"><h2>网站地图</h2><p class=\"map\"><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#steps\">配置流程</a><a href=\"#plans\">套餐订阅</a><a href=\"#guide\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">合作说明</a><a href=\"#links\">友情链接</a></p></section><section id=\"ads\"><h2>合作与展示说明</h2><div class=\"adbox\"><p>FireUnicorn 官网展示位用于品牌合作与使用指南同步，不插入第三方脚本。如需商务对接，请通过工单或客户经理渠道沟通，避免在订阅群内发送来路不明的下载包。</p></div></section><section id=\"links\"><h2>友情链接</h2><p class=\"links\"><a href=\"#\">节点状态说明</a><a href=\"#\">客户端兼容列表</a><a href=\"#\">分流规则入门</a><a href=\"#\">工单提交指引</a><a href=\"#\">服务条款摘要</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>© FireUnicorn 官方网站 · 机场订阅与 VPN 网络加速服务。本页为静态说明，套餐以展示信息为准。</p><p><a href=\"#\">返回顶部</a> · <a href=\"#map\">网站地图</a> · <a href=\"#guide\">官网下载说明</a></p></footer>",
+          "hash": "42b0d4b4b3632a50043394f9a002f34eb57e8af9915fb66752f24e90b27aee89",
+          "seo": {
+            "title": "FireUnicorn官网下载 | 机场订阅、VPN梯子与网络加速客户端",
+            "keywords": "FireUnicorn,FireUnicorn机场,FireUnicorn VPN,FireUnicorn官网,机场订阅,VPN加速器,梯子网络加速,客户端下载,官方下载",
+            "description": "FireUnicorn提供稳定机场订阅与VPN梯子服务，覆盖网络加速、流媒体解锁与多端客户端下载，本页为官网配置说明与套餐介绍。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mmozlml.cn",
+    "host": "p-05bd172051.mmozlml.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "mmozlml.cn",
+      "url": "https://mmozlml.cn/",
+      "label": "Element",
+      "apex": "mmozlml.cn",
+      "kind": null,
+      "identity": "dhkeeryny/page-b9d09d511707d703ddae6bf9"
+    },
+    {
+      "host": "bnjsk.cn",
+      "url": "https://bnjsk.cn/",
+      "label": "FireUnicorn",
+      "apex": "bnjsk.cn",
+      "kind": null,
+      "identity": "trvmrbhaw/page-949cab5202acd7b9ac6aa2f9"
+    },
+    {
+      "host": "bqspt.cn",
+      "url": "https://bqspt.cn/",
+      "label": "FireUnicorn",
+      "apex": "bqspt.cn",
+      "kind": null,
+      "identity": "feaucgxrkrt/page-7a6627f4dc4546c91afd6d59"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "a842da32dc211be654671d5275dfc71a210f118355b9b0ca589c90afff99c914",
+    "sitemap.xml": "69cde6df0180782cfee5d65e42b70c71e6ea1a443a944b7dc9f741cf9a415f83",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8b4221d408ff6a4224ee44e3959ad781be0a99fb0afdf0e2b121a31b798e90c0",
+    "robots.txt": "aa12d3b75371f2d72b7f4b5a8f4ae6f60f1fc0560dd063ab8b5971795170c742",
+    "edd7e2553e9fad9a0e5f70416244a83b.txt": "709e2a101bd2b80b6214956aaf2a7aecf78ae454150b2ecf6e0df5823ef5e8ac"
+  },
+  "revision": "04afd49931084e3efafc24536c6d57f88c910f207605ef0f88d2974d875bac7e"
+}
